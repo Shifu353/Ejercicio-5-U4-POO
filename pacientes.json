@@ -1,0 +1,45 @@
+{
+    "__class__": "ManejadorPacientes",
+    "Paciente": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "Apellido": "Sanchez",
+                "Nombre": "Claudio",
+                "Telefono": "(264)4735135",
+                "Altura": "164",
+                "Peso": "60"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "Apellido": "Sanchez",
+                "Nombre": "Xiomara",
+                "Telefono": "(264)5466020",
+                "Altura": "120",
+                "Peso": "30"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "Apellido": "Videla",
+                "Nombre": "Carolina",
+                "Telefono": "(264)4003292",
+                "Altura": "160",
+                "Peso": "70"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "Apellido": "terluk",
+                "Nombre": "isma",
+                "Telefono": "(264)1234567",
+                "Altura": "180",
+                "Peso": "80"
+            }
+        }
+    ]
+}
